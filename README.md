@@ -9,4 +9,4 @@
 
 ### Download the instructions on how to use the UPLOAD 08 device [here](https://github.com/Chauvet-Pro/UPLOAD08/blob/10c1c5fd4eb677c8c033037e7273ad55e4828da7/UPLOAD%2008%20Instructions.pdf)
 
-### Download the CP210x Universal Windows Driver [here](https://github.com/Chauvet-Pro/UPLOAD08/blob/10c1c5fd4eb677c8c033037e7273ad55e4828da7/CP210x_Universal_Windows_Driver.zip)
+### Download the CP210x Universal Windows Driver [here](https://github.com/Chauvet-Pro/UPLOAD08/blob/0bf288795b79241f26a21ba194d143c2c7f8e4c6/CP210x_Universal_Windows_Driver.zip)
